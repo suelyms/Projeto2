@@ -1,2 +1,2 @@
 # Projeto2
-Mold
+Modelagem conceitual, Lógica e SQL
